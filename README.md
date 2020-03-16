@@ -1,8 +1,5 @@
 #  金融证券知识图谱搭建
 
-financial_stock_knowledge_graph
-base on chinese stock market data
-
 本项目为基于 Python 中金融数据包 `TUSHARE` ，搭建一个金融证券知识图谱。
 项目覆盖知识图谱 从 **初次搭建** 后续 **更新维护**
 完整闭环。
@@ -24,7 +21,6 @@ base on chinese stock market data
     ├── 2.graph-data-process.ipynb
     ├── 3.graph-data-to-database.ipynb
     ├── 4.application.ipynb.ipynb
-    ├── 5.update-graph-get-data.ipynb
 
 ```
 注：相关数据下载后，解压到对应目录即可。
